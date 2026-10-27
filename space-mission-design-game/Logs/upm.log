@@ -1,0 +1,121 @@
+[2026-10-27T16:03:48.900Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.4f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 13768 --ipc-path Unity-Upm-13768 -l 2 --log-file D:\\Projects\\space-mission-design-game\\space-mission-design-game/Logs/upm.log
+[2026-10-27T16:03:48.960Z][INFO] IPC server started (IPC path=Unity-Upm-13768).
+[2026-10-27T16:03:48.960Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-13768.
+[2026-10-27T16:03:55.957Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:03:56.094Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T16:03:56.109Z][INFO] config:project:get-registries --> 200 (15 ms)
+[2026-10-27T16:03:56.110Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:03:56.298Z][INFO] project:list-packages --> 200 (342 ms)
+[2026-10-27T16:03:56.396Z][INFO] project:list-packages --> 200 (286 ms)
+[2026-10-27T16:03:56.660Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-10-27T16:03:56.685Z][INFO] project:update-dependencies --> 200 (25 ms)
+[2026-10-27T16:03:56.717Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-10-27T16:05:16.843Z][WARN] Requested version [3.0.2] for package [com.unity.nuget.newtonsoft-json] overridden by minimum version [3.2.2].
+[2026-10-27T16:05:16.843Z][WARN] Requested version [1.3.6] for package [com.unity.dt.app-ui] overridden by minimum version [2.1.13].
+[2026-10-27T16:05:16.847Z][INFO] project:resolve-packages --> 200 (80130 ms)
+[2026-10-27T16:07:51.474Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:07:51.653Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:07:53.361Z][INFO] project:list-packages --> 200 (1708 ms)
+[2026-10-27T16:07:53.392Z][INFO] project:list-packages --> 200 (1919 ms)
+[2026-10-27T16:07:56.186Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:07:56.977Z][INFO] project:list-packages --> 200 (791 ms)
+[2026-10-27T16:07:58.170Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T16:07:58.180Z][INFO] config:project:get-registries --> 200 (10 ms)
+[2026-10-27T16:09:26.922Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:09:27.002Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:09:27.358Z][INFO] project:list-packages --> 200 (435 ms)
+[2026-10-27T16:09:27.484Z][INFO] project:list-packages --> 200 (482 ms)
+[2026-10-27T16:09:29.130Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:09:29.541Z][INFO] project:list-packages --> 200 (411 ms)
+[2026-10-27T16:09:29.782Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T16:09:29.789Z][INFO] config:project:get-registries --> 200 (7 ms)
+[2026-10-27T16:10:34.792Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:10:35.258Z][INFO] project:list-packages --> 200 (466 ms)
+[2026-10-27T16:10:38.284Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:10:38.701Z][INFO] project:list-packages --> 200 (417 ms)
+[2026-10-27T16:10:39.026Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-10-27T16:10:40.077Z][INFO] packages:get-packageinfo --> 200 (1051 ms)
+[2026-10-27T16:10:40.280Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:10:43.058Z][INFO] project:list-packages --> 200 (2778 ms)
+[2026-10-27T16:13:37.951Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-10-27T16:13:41.074Z][WARN] Requested version [3.0.2] for package [com.unity.nuget.newtonsoft-json] overridden by minimum version [3.2.2].
+[2026-10-27T16:13:41.074Z][WARN] Requested version [1.3.6] for package [com.unity.dt.app-ui] overridden by minimum version [2.1.13].
+[2026-10-27T16:13:41.075Z][INFO] project:resolve-packages --> 200 (3125 ms)
+[2026-10-27T16:13:41.173Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T16:13:41.179Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-10-27T16:13:41.188Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:13:41.478Z][INFO] project:list-packages --> 200 (290 ms)
+[2026-10-27T16:17:09.853Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:17:10.124Z][INFO] project:list-packages --> 200 (271 ms)
+[2026-10-27T16:17:11.745Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:17:12.051Z][INFO] project:list-packages --> 200 (306 ms)
+[2026-10-27T16:17:12.560Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T16:17:12.567Z][INFO] config:project:get-registries --> 200 (7 ms)
+[2026-10-27T16:17:14.101Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-10-27T16:17:15.172Z][INFO] packages:get-packageinfo --> 200 (1071 ms)
+[2026-10-27T16:17:17.178Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:17:17.670Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:17:20.236Z][INFO] project:list-packages --> 200 (3057 ms)
+[2026-10-27T16:17:20.239Z][INFO] project:list-packages --> 200 (2569 ms)
+[2026-10-27T16:21:44.694Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:21:45.175Z][INFO] project:list-packages --> 200 (481 ms)
+[2026-10-27T16:21:46.646Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:21:46.961Z][INFO] project:list-packages --> 200 (315 ms)
+[2026-10-27T16:21:47.521Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-27T16:21:47.529Z][INFO] config:project:get-registries --> 200 (8 ms)
+[2026-10-27T16:21:49.306Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-10-27T16:21:50.247Z][INFO] packages:get-packageinfo --> 200 (941 ms)
+[2026-10-27T16:21:54.055Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:21:54.349Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T16:21:57.244Z][INFO] project:list-packages --> 200 (3189 ms)
+[2026-10-27T16:21:57.246Z][INFO] project:list-packages --> 200 (2897 ms)
+[2026-10-27T17:17:13.179Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T17:17:13.628Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T17:17:18.092Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T17:17:19.488Z][INFO] project:list-packages --> 200 (6312 ms)
+[2026-10-27T17:17:19.491Z][INFO] project:list-packages --> 200 (5863 ms)
+[2026-10-27T17:17:19.494Z][INFO] project:list-packages --> 200 (1402 ms)
+[2026-10-27T17:17:19.638Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-27T17:17:20.028Z][INFO] project:list-packages --> 200 (390 ms)
